@@ -1,6 +1,12 @@
-## Hi there 👋
-I am a beginner, learning code as we speak ;-;
-Wish me luck!
+## About Me
+
+Student,  
+Wishful Thinker,  
+Friend.  
+
+---
+>Make peace, do the dishes
+- ancient proverb
 
 <!--
 **mrn2e/mrn2e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
