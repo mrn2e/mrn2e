@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a beginner, learning code as we speak ;-;
+Wish me luck!
 
 <!--
 **mrn2e/mrn2e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
